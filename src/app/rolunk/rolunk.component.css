@@ -1,0 +1,29 @@
+/******************************WELCOME START******************************/
+.welcome-section {
+	float: left;
+	width: 100%;
+	padding: 60px 0;
+}
+.welcome-section .thumb {
+	float: left;
+	width: 100%;
+	background: #000;
+	overflow: hidden;
+}
+.welcome-section .thumb:hover img {
+	opacity: 0.6;
+}
+.welcome-section .thumb img {
+	display: block;
+	width: 100%;
+}
+.welcome-section .video-frame {
+	margin: 0;
+}
+.welcome-section .video-frame iframe {
+	height: 308px;
+}
+.narrow{
+	padding: 0px 10px;
+}
+/******************************WELCOME END******************************/

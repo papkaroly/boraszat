@@ -1,0 +1,24 @@
+.ourwines p{
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 18px; 
+    font-weight:700;
+    color:#956a17; 
+    text-align: center;
+}
+.ourwines h2{
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 30px; 
+    font-weight:700;
+    color:#956a17; 
+    text-align: center;
+}
+.ourwines h5{
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 20px; 
+    font-weight:700;
+    color:#956a17;
+    text-align: center;
+}
+.gold{
+    color:#956a17;
+}
